@@ -12,7 +12,7 @@ dependencies:
   esc_pos_utils:
     git:
       url: https://github.com/ramdasoutlogics/esc_pos_utils.git
-      ref: 074a6ffa48184349a34a7f1c01562f8c04b4b839
+      ref: 6ccb72ca656b0b656d828f7b678913f003c169f7
   flutter:
     sdk: flutter
   # esc_pos_utils:
