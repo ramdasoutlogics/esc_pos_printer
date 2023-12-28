@@ -77,8 +77,8 @@ packages:
     dependency: "direct main"
     description:
       path: "."
-      ref: "6ccb72ca656b0b656d828f7b678913f003c169f7"
-      resolved-ref: "6ccb72ca656b0b656d828f7b678913f003c169f7"
+      ref: "10ac08a5e656e22680ecaa7cd9b20dc42bd2310e"
+      resolved-ref: "10ac08a5e656e22680ecaa7cd9b20dc42bd2310e"
       url: "https://github.com/ramdasoutlogics/esc_pos_utils.git"
     source: git
     version: "1.1.0"

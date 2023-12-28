@@ -113,7 +113,7 @@ class NetworkPrinter {
   }
 
   void row(List<PosColumn> cols) {
-    _socket.add(_generator.row(cols));
+    _socket.add(_generator.row(cols,false));
   }
 
   void image(Image imgSrc, {PosAlign align = PosAlign.center}) {
