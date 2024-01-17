@@ -12,12 +12,12 @@ dependencies:
   esc_pos_utils:
     git:
       url: https://github.com/ramdasoutlogics/esc_pos_utils.git
-      ref: 10ac08a5e656e22680ecaa7cd9b20dc42bd2310e
+      ref: 2dbde2115ad9cdab0d313689ce4450210803e007
   flutter:
     sdk: flutter
   # esc_pos_utils:
   #   path: ../esc_pos_utils
-  image: ^3.0.2
+  image: ^4.0.9
 
 dev_dependencies:
   flutter_test:
